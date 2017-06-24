@@ -1,0 +1,20 @@
+{
+  "name": "xjasmine",
+  "version": "1.0.0",
+  "description": "Jasmine test extensions",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "keywords": [
+    "jasmine",
+    "test",
+    "extensions"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OleksandrTheGreat/xjasmine.git"
+  },
+  "author": "OleksandrTheGreat",
+  "license": "ISC"
+}
