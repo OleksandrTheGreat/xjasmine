@@ -1,5 +1,6 @@
 # xjasmine
 
+<pre>
 TestCases(
   "should generate equation",
   [
@@ -20,3 +21,4 @@ TestCases(
 
       expect(actual.operations.length).toBe(data.expected);
   });
+</pre>
